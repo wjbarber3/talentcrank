@@ -1,0 +1,40 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+/*
+#menu-item-20 .comment-submit, #reviews input#submit, .button-default, .button.default, .comment-form input[type="submit"], .fusion-button-default, .fusion-portfolio-one .fusion-button, .gform_page_footer input[type="button"], .gform_wrapper .button, .gform_wrapper .gform_button, .post-password-form input[type="submit"], .ticket-selector-submit-btn[type=submit] {
+    background: #3da2da !important;
+    color: #ffffff;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a0ce4e, endColorstr=#a0ce4e);
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+}
+
+
+
+#menu-item-21 .comment-submit, #reviews input#submit, .button-default, .button.default, .comment-form input[type="submit"], .fusion-button-default, .fusion-portfolio-one .fusion-button, .gform_page_footer input[type="button"], .gform_wrapper .button, .gform_wrapper .gform_button, .post-password-form input[type="submit"], .ticket-selector-submit-btn[type=submit] {
+    background: red;
+    color: #ffffff;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a0ce4e, endColorstr=#a0ce4e);
+    transition: all .2s;
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -ms-transition: all .2s;
+    -o-transition: all .2s;
+}
+
+
+
+/*    REMOVE SLIDER SHADOW
+#layerslider-wrapper .ls-shadow-top, .rev_slider_wrapper .shadow-left {
+display: none !important; }
+*/
